@@ -7,7 +7,7 @@
 This is a basic **Survey Form** built using HTML.
 It collects user information such as name, email, age, role, feedback about a session, and suggestions for improvement.
 
-The project demonstrates the use of:
+The project demonstrates the use of
 
 * HTML structure
 * Form elements (input, select, textarea)
